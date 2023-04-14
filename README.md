@@ -71,3 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 I have used react js and React table library for building this application
+
+
+UI for the application
+
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/16397860/232041304-aec8994f-b2fe-4489-96f9-15dad2360380.png">
